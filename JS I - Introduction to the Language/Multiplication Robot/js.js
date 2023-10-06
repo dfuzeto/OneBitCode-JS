@@ -1,0 +1,2 @@
+let table = parseFloat(prompt('How number?'))
+alert(`${table * 1} \n` +`${table * 2} \n` +`${table * 3} \n` +`${table * 4} \n` +`${table * 5} \n` +`${table * 6} \n` +`${table * 7} \n` +`${table * 8} \n` +`${table * 9} \n` +`${table * 10} \n`)
